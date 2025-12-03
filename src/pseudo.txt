@@ -1,0 +1,21 @@
+
+
+Thread Plan
+
+Image image= TakePicture();
+
+imageX= image.getXPixels()
+
+
+for(int i=0; i <imageX;i+=8){
+    create threadi;
+}
+
+
+//Do this til reach end of image file for each thread
+int newy=threadi(runfunction(x,y));
+newy=threadi(runfunction(x,newy));
+
+
+
+
